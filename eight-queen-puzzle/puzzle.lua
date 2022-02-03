@@ -14,7 +14,7 @@ end
 local function printsolution(a)
     for i = 1, N do
         for j = 1, N do
-            io.write(a[i] == j and "X" or "-", " ")
+            io.write(a[i] == j and "♕" or "-", " ")
         end
         io.write("\n")
     end

@@ -1,7 +1,6 @@
 # Introduction
 
-This is a collection of mini projects to explore [Lua programming
-language][1].
+This is a collection of mini projects to explore [Lua programming language][1].
 
 ## Catalog
 
@@ -9,5 +8,6 @@ language][1].
 | ------------------ | --------------- | ----------------------------------- |
 | eight-queen-puzzle | 5.1             | solve eight-queen puzzle            |
 | busted             | 5.1             | unit test framework                 |
+| str                | 5.3             | string excercises                   |
 
 [1]: https://www.lua.org/home.html
